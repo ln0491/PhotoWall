@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoWall</string>
+    <string name="photo_choose">图片选择</string>
+    <string name="ensure">确定</string>
+</resources>
